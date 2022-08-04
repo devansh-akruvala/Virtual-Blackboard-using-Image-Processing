@@ -44,6 +44,8 @@ for more detail refer: https://devansh-akruvala.blogspot.com/2020/10/virtual-bla
 <img src="screenshots/distance.JPG" >
 <img src="screenshots/contours.JPG">
 
+Link to the [Research Paper](https://drive.google.com/file/d/1GXBC8ku8Bi2qNl2FV3QynngLsswLX4GP/view?usp=sharing) for this project. 
+
 ## Video
 
 [![Watch the video](screenshots/final.JPG)](https://youtu.be/gqLOmYf22hc)
