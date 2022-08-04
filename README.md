@@ -46,4 +46,4 @@ for more detail refer: https://devansh-akruvala.blogspot.com/2020/10/virtual-bla
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/gqLOmYf22hc/maxresdefault.jpg)](https://youtu.be/gqLOmYf22hc)
+[![Watch the video](screenshots/final.JPG)](https://youtu.be/gqLOmYf22hc)
