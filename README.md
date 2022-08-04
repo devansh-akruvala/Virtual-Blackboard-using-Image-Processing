@@ -2,7 +2,7 @@
 Project created by Devansh Akruvala
 ## Screenshots
 #### You can write on blackboard with any colour and switch between pen and eraser from toolbox  
-<img src="screenshots/final.JPG" width="400">
+<img src="screenshots/final.JPG">
 
 #### Similarities of Triangle is used to compute distance between camera and pen
 
@@ -41,8 +41,8 @@ This D is the distance between web cam and object now task of writing or erasing
 for more detail refer: https://devansh-akruvala.blogspot.com/2020/10/virtual-blackboard-using-image.html
 
 
-<img src="screenshots/distance.JPG" width="200">
-<img src="screenshots/contours.JPG" width="200">
+<img src="screenshots/distance.JPG" >
+<img src="screenshots/contours.JPG">
 
 ## Video
 
