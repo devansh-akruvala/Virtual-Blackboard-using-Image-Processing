@@ -38,13 +38,15 @@ Let “D” be the distance from webcam Then “D” can be given by.
 
 This D is the distance between web cam and object now task of writing or erasing will be done only when this D is less than Threshold distance “TD” provided by the user.
 
-for more detail refer: https://devansh-akruvala.blogspot.com/2020/10/virtual-blackboard-using-image.html
-
-
 <img src="screenshots/distance.JPG" >
 <img src="screenshots/contours.JPG">
 
-Link to the [Research Paper](https://drive.google.com/file/d/1GXBC8ku8Bi2qNl2FV3QynngLsswLX4GP/view?usp=sharing) for this project. 
+
+
+**Link to the [Research Paper](https://drive.google.com/file/d/1GXBC8ku8Bi2qNl2FV3QynngLsswLX4GP/view?usp=sharing) for this project.**
+
+**Link to the [Blog](https://devansh-akruvala.blogspot.com/2020/10/virtual-blackboard-using-image.html) for this project.**
+
 
 ## Video
 
