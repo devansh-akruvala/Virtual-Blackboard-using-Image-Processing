@@ -23,7 +23,7 @@ There for it satisfy the property that Corresponding sides are all in the same p
 
 Therefor,      
     
-$$\frac{AE}{AD}=\frac{EF}{BC}$$
+$$\frac{AG}{AD}=\frac{EF}{BC}$$
 
 Therefor,  
 $$\frac{f}{kd}= \frac{pw}{kw}$$
